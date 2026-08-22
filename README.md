@@ -4,7 +4,8 @@ PROBLEM STATEMENT: Loan Approval Prediction Tool Category
 Expected Solution: ● A software solution that predicts whether a loan application is likely to be approved or rejected, based on applicant details such as income, existing credit                             history,and requested loan amount.
                          ● Should be trained on a defined dataset and clearly report how it arrived at its prediction (key contributing factors). 
                          ● Should present the outcome along with a confidence level, not just a plain approve/reject label.
-                         ● Should make clear that the tool is a decision-support aid and not a final lending decision. 
+                         ● Should make clear that the tool is a decision-support aid and not a final lending decision.  
+                         
 PROPOSAL SOLUTION:
            Collect applicant and loan details.
            Process the data using Python.
