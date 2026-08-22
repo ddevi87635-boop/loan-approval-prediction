@@ -25,6 +25,9 @@ STACK USED:
            Model: Random Forest
            IDE: VS Code
 
+PROBLEM STATEMENT:
+           
+
 Team members:
            K.DURGA DEVI
            J.GOKULAPRIYA
