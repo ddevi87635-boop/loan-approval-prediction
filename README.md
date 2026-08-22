@@ -1,6 +1,6 @@
 PROBLEM STATEMENT: Loan Approval Prediction Tool Category
 
- Software Theme: Financial Technology Description: Small lenders and cooperative institutions manually assess routine loan applications using fixed rules of                       thumb, which is slow for simple cases and can lead to inconsistent decisions between different applicants with similar profiles.
+ Software Theme: Financial Technology Description: Small lenders and cooperative institutions manually assess routine loan applications using fixed rules of  thumb, which is slow for   simple cases and can lead to inconsistent decisions between different applicants with similar profiles.
 Expected Solution: ● A software solution that predicts whether a loan application is likely to be approved or rejected, based on applicant details such as income, existing credit                             history,and requested loan amount.
                          ● Should be trained on a defined dataset and clearly report how it arrived at its prediction (key contributing factors). 
                          ● Should present the outcome along with a confidence level, not just a plain approve/reject label.
